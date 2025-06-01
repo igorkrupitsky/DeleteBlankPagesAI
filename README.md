@@ -12,4 +12,4 @@ One you detected a blank file, you can:
 3. Place blank images to to_be_deleted folder
 3. Delete blank images
 
-   
+Get API Key from Open AI https://platform.openai.com/account/api-keys.
